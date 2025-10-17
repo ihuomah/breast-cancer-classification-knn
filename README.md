@@ -18,3 +18,26 @@ Predicts **Malignant (1)** vs **Benign (0)** using the Breast Cancer Wisconsin (
 
 ## Notes
 Focused on minimizing false negatives (missed malignant cases).
+
+
+---
+
+## 🧠 Model Overview
+Here’s a visual of the **KNN Pipeline** used for preprocessing and classification:
+
+![Pipeline](images/pipeline.png)
+
+---
+
+## 🎯 Confusion Matrix
+Final model results (K=3, Metric=Manhattan):
+
+![Confusion Matrix](images/confusion%20matrix.png)
+
+**Interpretation:**
+- **Top-left (107)** → Correctly predicted benign
+- **Bottom-right (59)** → Correctly predicted malignant
+- **Bottom-left (5)** → Missed malignant cases
+- Overall accuracy ≈ 97%
+
+---
