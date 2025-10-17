@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/ihuomah/breast-cancer-classification-knn/blob/main/notebooks/Cancer_Classification.ipynb)
+
+
 # Breast Cancer Classification (KNN)
 
 Predicts **Malignant (1)** vs **Benign (0)** using the Breast Cancer Wisconsin (Diagnostic) dataset.
