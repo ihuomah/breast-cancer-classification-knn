@@ -32,7 +32,7 @@ Here’s a visual of the **KNN Pipeline** used for preprocessing and classificat
 ## 🎯 Confusion Matrix
 Final model results (K=3, Metric=Manhattan):
 
-![Confusion Matrix](images/confusion%20matrix.png)
+![Confusion Matrix](images/confusion%20matrixx.png)
 
 **Interpretation:**
 - **Top-left (107)** → Correctly predicted benign
